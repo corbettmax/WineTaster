@@ -6,8 +6,9 @@ Simple Feed Forward Neural Network
 
 Compile with:
 
-**g++ -fopenmp -O neuralnetwork neuralnetwork.cpp
-**
+**g++ -fopenmp -O neuralnetwork neuralnetwork.cpp**
+
+
 Run with:
 
 **./neuralnetwork**
